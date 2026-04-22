@@ -110,8 +110,9 @@ The `Header` component requires `useState` for the mobile menu toggle, making it
 - **Build status:** ✓ Compiled successfully (Turbopack)
 - **TypeScript check:** ✓ No errors
 - **Static generation:** ✓ Page pre-rendered as static content
-- **Git commits:** 2 commits on `main` branch
-- **Deployment:** Ready for Vercel deployment
+- **Git commits:** 4 commits on `main` branch
+- **Deployment:** ✓ Live on Vercel — https://week-2-nextjs-641o4odqr-juan-lauricio.vercel.app
+- **GitHub Repository:** https://github.com/juanlauricio/week-2-nextjs-cv
 
 ---
 
@@ -122,7 +123,7 @@ The `Header` component requires `useState` for the mobile menu toggle, making it
 - Tailwind CSS utility-first responsive design
 - React Client Components vs Server Components
 - Git workflow with conventional commits
-- Production build verification and deployment preparation
+- Production build verification and Vercel deployment
 
 ---
 
